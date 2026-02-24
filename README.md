@@ -1,0 +1,2 @@
+# Stock-Closing-Price-Prediction-of-PT-Bukit-Asam-Tbk-Using-the-Autoformer-Model-Final-Thesis
+Fluctuating stock prices require reliable prediction for investment decisions. This study uses the Autoformer model to forecast PTBA closing prices (2020–2025). The best configuration achieved 0.57 validation loss and 3.02% MAPE, capturing short-term trends well, though accuracy remains limited during market fluctuations and non-periodic movements.
